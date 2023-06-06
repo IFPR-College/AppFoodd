@@ -7,7 +7,7 @@ export default function Products(){
 
     return(
         <Container>
-            <Title></Title>
+            <Title>Adicione um Produto</Title>
             <Form>
                 <InputField placeholder="Nome" value={nome} onChange={() => setNome}/>
                 <InputField placeholder="Icone" value={icone} onChange={() => setIcone}/>
