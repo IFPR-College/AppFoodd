@@ -1,11 +1,5 @@
-import { useState } from "react";
-
-import "./App.css";
+import Home from "../Modules/Home.tsx/Home";
 
 export default function App() {
-  
-  
-  return (
-      
-  );
+  return <Home />;
 }

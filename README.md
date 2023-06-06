@@ -1,6 +1,8 @@
 # AppFoodd
 
  - Utilizamos docker run --rm -d -p 27017:27017 mongo para levantar o servidor do banco mongo
+ - entre na pasta "frontend" utilizando o comando
+ - cd frontend
  - npm install ou npm i para instalar as dependencias que estão descritas no package.json
  - e depois npm run dev para iniciar a aplicação
  - após isso tudo deve estar funcionando normalmente.
